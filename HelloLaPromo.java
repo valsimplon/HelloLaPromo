@@ -5,7 +5,7 @@ public class HelloLaPromo {
 	
 	public static void main(String[] args) {
 		List<String> membres = new ArrayList();
-		membres.add("Claude");
+		membres.add("Eric","Claude");
 
 		for(String membre : membres) {
 			System.out.println(membre);
