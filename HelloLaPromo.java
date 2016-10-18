@@ -8,6 +8,8 @@ public class HelloLaPromo {
 		membres.add("Eric");
 		membres.add("Jean-Michel");
 		membres.add("laurence");
+		membres.add("Laurent");
+		
 		for(String membre : membres) {
 			System.out.println(membre);
 		}
