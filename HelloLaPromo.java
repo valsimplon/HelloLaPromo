@@ -9,7 +9,8 @@ public class HelloLaPromo {
 		membres.add("Jean-Michel");
 		membres.add("laurence");
 		membres.add("Laurent");
-		
+		membres.add ("Claude");
+
 		for(String membre : membres) {
 			System.out.println(membre);
 		}
