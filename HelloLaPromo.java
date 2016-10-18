@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,6 +8,7 @@ public class HelloLaPromo {
 		List<String> membres = new ArrayList();
 		membres.add("Eric");
 		membres.add("Jean-Michel");
+		membres.add("laurence");
 		for(String membre : membres) {
 			System.out.println(membre);
 		}
